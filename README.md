@@ -1,2 +1,3 @@
-# Differnce-Arrays-ArrayLists
+An array is best used when you already know how many values you need to store. For example, if I want to store exactly five test scores, an array works well because the size is fixed once it is created. An ArrayList is more flexible because it can grow or shrink as items are added or removed. This makes it useful when the amount of data may change while the program is running.
 
+The biggest difference is that arrays have a fixed length, while ArrayLists are resizable. Arrays can also store primitive values like int, while ArrayLists use object types such as Integer. In my example program, I created an array of scores and an ArrayList of names. The array showed how values are stored in fixed positions, while the ArrayList showed how items can be added and removed more easily.
